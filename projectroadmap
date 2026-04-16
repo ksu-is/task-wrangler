@@ -1,5 +1,10 @@
 ## First code base I found was too complex for me to realistically work with it. It was severely outdated and had a detrimental number of dependencies.
 ## I spent several hours over the course of two to three days trying everything I could to get the codebase to run. I downloaded external dependency
-##after external dependency to no avail. I typed code into my systems windows powershell to allow third-party scripts to run, downloaded an older version
+## after external dependency to no avail. I typed code into my system's windows powershell to allow third-party scripts to run, downloaded an older version
 ## of Python that was compatible with the obsolete dependencies, and after a few days of that, it still wouldn't run.
-##I eventually went back to the drawing board 
+## I eventually went back to the drawing board and specifically focused my search on to do list code bases from within the last five years
+## that didn't list a plethora of dependencies like Django, Flask, etc. I found a Tkinter To Do List codebase and it ran on the first
+## attempt.
+
+## What I learned from the codebase, what it does, etc -
+##
