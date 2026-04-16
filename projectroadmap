@@ -1,0 +1,5 @@
+## First code base I found was too complex for me to realistically work with it. It was severely outdated and had a detrimental number of dependencies.
+## I spent several hours over the course of two to three days trying everything I could to get the codebase to run. I downloaded external dependency
+##after external dependency to no avail. I typed code into my systems windows powershell to allow third-party scripts to run, downloaded an older version
+## of Python that was compatible with the obsolete dependencies, and after a few days of that, it still wouldn't run.
+##I eventually went back to the drawing board 
