@@ -1,14 +1,76 @@
-## First code base I found was too complex for me to realistically work with it. It was severely outdated and had a detrimental number of dependencies.
-## I spent several hours over the course of two to three days trying everything I could to get the codebase to run. I downloaded external dependency
-## after external dependency to no avail. I typed code into my system's windows powershell to allow third-party scripts to run, downloaded an older version
-## of Python that was compatible with the obsolete dependencies, and after a few days of that, it still wouldn't run.
-## I eventually went back to the drawing board and specifically focused my search on to do list code bases from within the last five years
-## that didn't list a plethora of dependencies like Django, Flask, etc. I found a Tkinter To Do List codebase and it ran on the first
-## attempt.
+# Project Roadmap
 
-## What I learned from the codebase, what it does, etc -
-##How it works is that a window is created and the code runs so that the UI features operational buttons used for features including:
-## delete, clear, save, open, and add.
-## where it says class window is where the window size, color, and other features are declared.
-##my understanding of the the rest of the programming is questionable so until I conduct more research, I will only definitively commit to using the 
-##Class window section of code as a reference for a part of my own project.
+
+#Sprint 1
+
+## Codebase Abandoned
+
+The first codebase I found turned out to be far too complex for me to realistically work with. It was severely outdated and required a large number of external dependencies.
+
+Over the course of two to three days, I tried everything I could to get it running:
+
+- Downloaded dependency after dependency
+
+- Adjusted Windows PowerShell settings to allow third‑party scripts
+
+- Installed an older version of Python to match the obsolete requirements
+
+Even after all of that, the project still wouldn’t run. At that point, I decided it was better to start over with a more modern and manageable codebase.
+
+
+## Codebase Search pt 2.
+
+I refined my search to focus specifically on to‑do list projects created within the last five years that did not rely on heavy frameworks like Django or Flask.
+
+This led me to a Tkinter‑based to‑do list application, which ran successfully on the very first attempt. Since Tkinter is built into Python, it required no external installations and was much easier to work with.
+
+
+## What I learned from the codebase, what it does, etc
+
+How it works is that a window is created and the code runs so that the UI features operational buttons used for features including: 
+
+- delete
+
+- clear
+
+- save
+
+- open
+
+- add
+
+Where it says class window is where the window size, color, and other features are declared.
+
+My understanding of the the rest of the programming is questionable so until I conduct more research, I will only definitively commit to using the Class window section of code as a reference for a part of my own project.
+
+
+## Sprint 2
+
+For Sprint 2, I will begin developing to‑do list application. I plan to start with a simple version and perhaps expand it if time and... ability permit.
+
+### Core features I will build first
+- Add a task  
+- View all tasks  
+- Delete a task  
+
+These features will give me a working bare minimum version of the app and it will be directly influenced by the codebase I found
+
+### Features I may consider later
+- Saving tasks to a file  
+- Editing existing tasks  
+- Adding due dates or categories  
+- Improving the UI layout  
+
+### Tools and approach
+I will use Python and Tkinter, since the codebase I explored showed me how effective Tkinter can be without the use of numerous third-party dependencies. I will commit to GitHub to show progress.
+
+
+## Sprint 3 — Final Reflection (to be completed later)
+
+At the end of the project, I will document:
+
+- What I actually built  
+- Which features changed were scrapped 
+- Challenges I encountered  
+- What I learned about Python, Tkinter, and project development  
+- What I would improve with more time  
