@@ -7,4 +7,8 @@
 ## attempt.
 
 ## What I learned from the codebase, what it does, etc -
-##
+##How it works is that a window is created and the code runs so that the UI features operational buttons used for features including:
+## delete, clear, save, open, and add.
+## where it says class window is where the window size, color, and other features are declared.
+##my understanding of the the rest of the programming is questionable so until I conduct more research, I will only definitively commit to using the 
+##Class window section of code as a reference for a part of my own project.
