@@ -50,8 +50,8 @@ For Sprint 2, I will begin developing to‑do list application. I plan to start 
 
 ### Core features I will build first
 - Add a task  (Done)
-- View all tasks  
-- Delete a task  
+- View all tasks  (Done)
+- Delete a task  (Done)
 
 These features will give me a working bare minimum version of the app and it will be directly influenced by the codebase I found
 
