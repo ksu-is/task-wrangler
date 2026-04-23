@@ -10,6 +10,11 @@ def add_task():
         task_listbox.insert(tk.END, task)
         task_entry.delete(0, tk.END)
 
+def delete_task():
+    selected = task_listbox.curselection()
+    if selected:
+        task_listbox.delete(selected[0])
+
 task_entry = tk.Entry(root, width=30)
 task_entry.pack(pady=10)
 
@@ -18,5 +23,8 @@ add_button.pack()
 
 task_listbox = tk.Listbox(root, width=40, height=10)
 task_listbox.pack(pady=10)
+
+delete_button = tk.Button(root, text="Delete Task", command=delete_task)
+delete_button.pack(pady=5)
 
 root.mainloop()
