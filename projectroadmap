@@ -59,7 +59,7 @@ These features will give me a working bare minimum version of the app and it wil
 - Saving tasks to a file  
 - Editing existing tasks  
 - Adding due dates or categories  
-- Improving the UI layout  
+- Improving the UI layout  (Done, added colors to buttons)
 
 ### Tools and approach
 I will use Python and Tkinter, since the codebase I explored showed me how effective Tkinter can be without the use of numerous third-party dependencies. I will commit to GitHub to show progress.
